@@ -1,0 +1,2 @@
+# mcgit
+mc git
